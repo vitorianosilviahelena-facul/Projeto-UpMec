@@ -4,7 +4,7 @@
 **Tabela Principal Escolhida:** `AGENDAMENTO` (relacionada via chaves estrangeiras com `CLIENTE`, `VEICULOS`, `FUNCIONARIOS` e `SERVICOS`)  
 
 ## Integrantes do Grupo
-* Sílvia Helena Vitoriano Silva
+* Silvia Helena Vitoriano Silva
 * Maria Thuane Sousa de Oliveira
 * José Yrison Schindler da Silva Ramos
 * Samuel Sousa de Oliveira
