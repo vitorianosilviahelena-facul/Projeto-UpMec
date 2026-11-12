@@ -6,7 +6,7 @@
 ## Integrantes do Grupo
 * Silvia Helena Vitoriano Silva
 * Maria Thuane Sousa de Oliveira
-* José Yrison Schindler da Silva Ramos
+* Josue Yrion Schindler da Silva Ramos
 * Samuel Sousa de Oliveira
 * Kauã Dos Anjos Barbosa
 
